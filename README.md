@@ -19,8 +19,8 @@ Total cost is less than 50 USD
 
 
 Connect pinout like this:
-const int sensorPin = A0; //To moisture-sensor
-const int photo_sensor = A1; //To fotodiode 
-const int pump_pin = A2; //To transistor 1 to determine when to turn on the pump
-const int LED_pin = 0; //Connect to resistor with resistor in between 
-const int run_moisture_sensor = 1; //To transistor 2 to determine when to fetch moisture sensor data
+1. const int sensorPin = A0; //To moisture-sensor
+2. const int photo_sensor = A1; //To fotodiode 
+3. const int pump_pin = A2; //To transistor 1 to determine when to turn on the pump
+4. const int LED_pin = 0; //Connect to resistor with resistor in between 
+5. const int run_moisture_sensor = 1; //To transistor 2 to determine when to fetch moisture sensor data
