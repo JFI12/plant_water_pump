@@ -1,5 +1,5 @@
 # plant_water_pump
-3V water pump and raspberry pi pico w for automatic plant watering. Can easily be connected to WIFI to check plant moisture status
+Automatic plant watering with 3V water pump and raspberry pi pico w. The pico w can easily be connected to WIFI to check and change plant moisture status
 
 
 Hardware is:
