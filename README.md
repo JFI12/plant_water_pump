@@ -22,5 +22,5 @@ Connect pinout like this:
 1. const int sensorPin = A0; //To moisture-sensor
 2. const int photo_sensor = A1; //To fotodiode 
 3. const int pump_pin = A2; //To transistor 1 to determine when to turn on the pump
-4. const int LED_pin = 0; //Connect to resistor with resistor in between 
+4. const int LED_pin = 0; //Connect to LED with pull-up resistor in between 
 5. const int run_moisture_sensor = 1; //To transistor 2 to determine when to fetch moisture sensor data
