@@ -26,6 +26,9 @@ Connect pinout like this:
 5. const int run_moisture_sensor = 1; //To transistor 2 to determine when to fetch moisture sensor data
 
 5V pumps didnt work well
+
 Recommended pump: https://www.electrokit.com/en/vattenpump-12v
+
+The system should also include relay system for many pumps.
+
 ![IMG_0056](https://github.com/user-attachments/assets/5634b40f-c065-4bf9-8152-5b5e7faca066)
-Should also include relay system for many pumps.
