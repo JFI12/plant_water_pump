@@ -24,3 +24,6 @@ Connect pinout like this:
 3. const int pump_pin = A2; //To transistor 1 to determine when to turn on the pump
 4. const int LED_pin = 0; //Connect to LED with pull-up resistor in between 
 5. const int run_moisture_sensor = 1; //To transistor 2 to determine when to fetch moisture sensor data
+
+5V pumps didnt work well
+Recommended pump: https://www.electrokit.com/en/vattenpump-12v
