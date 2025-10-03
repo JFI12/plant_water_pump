@@ -27,3 +27,5 @@ Connect pinout like this:
 
 5V pumps didnt work well
 Recommended pump: https://www.electrokit.com/en/vattenpump-12v
+![IMG_0056](https://github.com/user-attachments/assets/5634b40f-c065-4bf9-8152-5b5e7faca066)
+Should also include relay system for many pumps.
